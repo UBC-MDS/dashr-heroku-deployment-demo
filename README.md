@@ -1,2 +1,1 @@
-# dashr-heroku-deployment-demo
-How to deploy an dashr app to heroku
+# How to deploy a Dash-R app to Heroku
