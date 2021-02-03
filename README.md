@@ -11,4 +11,4 @@ Steps to reproduce:
 4. `git push heroku main`
 5. Wait ~15 min for the build to finish.
 6. `heroku ps:scale web=1`
-7. Navigate to `https://you-heroku-site.herokuapp.com` in your browser
+7. Navigate to `https://you-heroku-site.herokuapp.com` in your browser.
